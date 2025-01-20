@@ -63,7 +63,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="relative pb-[56.25%] h-0 rounded-xl overflow-hidden shadow-2xl border-2 border-cyan-500/20">
             <iframe
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://youtu.be/vhJDs_Qe7yg?si=Fkimofvlh5JlRS5-"
               title="Introduction Video"
               className="absolute top-0 left-0 w-full h-full"
               frameBorder="0"
